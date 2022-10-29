@@ -1,0 +1,15 @@
+D:\KIET0904\Test2\bin\Debug\net6.0\Test2.exe
+D:\KIET0904\Test2\bin\Debug\net6.0\Test2.deps.json
+D:\KIET0904\Test2\bin\Debug\net6.0\Test2.runtimeconfig.json
+D:\KIET0904\Test2\bin\Debug\net6.0\Test2.dll
+D:\KIET0904\Test2\bin\Debug\net6.0\Test2.pdb
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.csproj.AssemblyReference.cache
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.AssemblyInfoInputs.cache
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.AssemblyInfo.cs
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.csproj.CoreCompileInputs.cache
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.dll
+D:\KIET0904\Test2\obj\Debug\net6.0\refint\Test2.dll
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.pdb
+D:\KIET0904\Test2\obj\Debug\net6.0\Test2.genruntimeconfig.cache
+D:\KIET0904\Test2\obj\Debug\net6.0\ref\Test2.dll

@@ -1,11 +1,11 @@
 class Dependent
 {
-    Name? name = null;
-    string? sex = null;
-    DateTime? birth_date = null;
-    string? relationship = null;
+    internal string name;
+    internal string sex;
+    internal DateTime birth_date;
+    internal string relationship;
 
-    public Dependent(Name name, string sex, DateTime birth_date, string relationship)
+    public Dependent(string name, string sex, DateTime birth_date, string relationship)
     {
         this.name = name;
         this.sex = sex;
